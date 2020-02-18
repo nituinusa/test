@@ -6,4 +6,6 @@ IRIS dataset was split in 80/20 for training and testing respectively. Each of L
 
 
 #austin_tx_police.ipynb
+
+
 This is an exploratory data analysis for police stops in Austin, TX
