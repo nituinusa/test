@@ -16,7 +16,7 @@ This is a classification model (convnet) to classify pictures of dogs and cats. 
 
 [Cat and Dog Image Classification with Image augmentation(convnet)](https://github.com/sumitkumar-00/Data_Science_Projects/blob/master/cat_and_dog_Image_Augmentation.ipynb)
 
-This is a classification model (convnet) to classify pictures of dogs and cats with image augmentation. 4k pictures of dogs and cats each were used for training. Test set had 1k pictures for each class. The model achieved accuracy of 85%. This is an improvement of almost 8% over my model without image augmentation.
+This is a classification model (convnet) to classify pictures of dogs and cats with image augmentation. 4k pictures of dogs and cats each were used for training. Test set had 1k pictures for each class. The model achieved accuracy of 85%. This is an improvement of almost 7% over my model without image augmentation.
 
 [Classifying credit data into defaulters/non-defaulters](https://github.com/sumitkumar-00/Data_Science_Projects/blob/master/credit_default.ipynb)
 
