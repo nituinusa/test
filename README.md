@@ -18,6 +18,20 @@ This is a classification model (convnet) to classify pictures of dogs and cats. 
 
 This is a classification model (convnet) to classify pictures of dogs and cats with image augmentation. 4k pictures of dogs and cats each were used for training. Test set had 1k pictures for each class. The model achieved accuracy of 85%. This is an improvement of almost 7% over my model without image augmentation.
 
+[Basic Movie Recommender](https://github.com/sumitkumar-00/Data_Science_Projects/blob/master/basic_movie_recommender.ipynb)
+
+DataSet:
+This dataset is from Open Movie Database
+It was downloaded from their website using the APIs provided
+We have roughly 65K movies and their attributes such as rating, vote count and actors etc.
+
+Objective:
+Build a basic movie recommender that recommends movies based on a score
+The score for a movie is calculated based on number of votes and the ratings
+Higher score translates to higher recommendation
+
+P.S. : I am working on a more complex movie recommender and it will be uploaded soon.
+
 [Classifying credit data into defaulters/non-defaulters](https://github.com/sumitkumar-00/Data_Science_Projects/blob/master/credit_default.ipynb)
 
 This dataset contained 3 predictors ( student, balance and income) and one reponse default/no default. Dataset is imbalanced and only 3 percent of the 10K observation belong to default class. Randomforest classifier was able to achieve an area under curve equal to 0.89
