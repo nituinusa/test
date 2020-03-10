@@ -1,3 +1,14 @@
+[Plot Based Movie Recommender](https://github.com/sumitkumar-00/Data_Science_Projects/blob/master/plot_based_movie_recommender.ipynb)
+
+DataSet:
+ - This dataset is from [Open Movie Database](http://www.omdbapi.com/)
+ - It was downloaded from their website using the APIs provided
+ - We have roughly 65K movies and their attributes such as rating, vote count and actors etc.
+ 
+Objective:
+ - Build a plot based movie recommender that recommends movies based on a similarity score of plots
+ - User inputs a movie name and similar movies based on similarity score are recommended
+
 [Predicting IRIS Species](https://github.com/sumitkumar-00/Data_Science_Projects/blob/master/iris.ipynb)
 
 IRIS dataset was split in 80/20 for training and testing respectively. Each of Logistic Regression, KNN and RandomForest models achieved 96.67% accuracy in predicting species of the iris flower
