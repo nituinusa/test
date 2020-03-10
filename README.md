@@ -14,7 +14,7 @@ This is an exploratory data analysis for police stops in Austin, TX
 
 This is a classification model (convnet) to classify pictures of dogs and cats with image augmentation. 4k pictures of dogs and cats each were used for training. Test set had 1k pictures for each class. The model achieved accuracy of 85%. This is an improvement of almost 7% over my model without image augmentation.
 
-[Credit and Genre Based Movie Recommender](https://github.com/sumitkumar-00/Data_Science_Projects/blob/master/credit_based_movie_recommender.ipynb)
+[Credit and Genre Based Movie Recommender](https://github.com/sumitkumar-00/Data_Science_Projects/blob/master/credit_based_mr.ipynb)
 
 The dataset is from [Open Movie Database](http://www.omdbapi.com/). It was downloaded from their website using the APIs provided. We have roughly 65K movies and their attributes such as rating, vote count and actors etc.
  
