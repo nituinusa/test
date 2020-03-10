@@ -1,21 +1,30 @@
 [Plot Based Movie Recommender](https://github.com/sumitkumar-00/Data_Science_Projects/blob/master/plot_based_movie_recommender.ipynb)
 
-DataSet:
- - This dataset is from [Open Movie Database](http://www.omdbapi.com/)
- - It was downloaded from their website using the APIs provided
- - We have roughly 65K movies and their attributes such as rating, vote count and actors etc.
+The dataset is from [Open Movie Database](http://www.omdbapi.com/). It was downloaded from their website using the APIs provided. We have roughly 65K movies and their attributes such as rating, vote count and actors etc.
  
 Objective:
  - Build a plot based movie recommender that recommends movies based on a similarity score of plots
+ - User inputs a movie name and similar movies based on similarity score are recommended
+ 
+ [Police Stops in Austin, TX](https://github.com/sumitkumar-00/Data_Science_Projects/blob/master/austin_tx_police.ipynb)
+
+This is an exploratory data analysis for police stops in Austin, TX
+
+[Cat and Dog Image Classification with Image augmentation(convnet)](https://github.com/sumitkumar-00/Data_Science_Projects/blob/master/cat_and_dog_Image_Augmentation.ipynb)
+
+This is a classification model (convnet) to classify pictures of dogs and cats with image augmentation. 4k pictures of dogs and cats each were used for training. Test set had 1k pictures for each class. The model achieved accuracy of 85%. This is an improvement of almost 7% over my model without image augmentation.
+
+[Credit and Genre Based Movie Recommender](https://github.com/sumitkumar-00/Data_Science_Projects/blob/master/credit_based_movie_recommender.ipynb)
+
+The dataset is from [Open Movie Database](http://www.omdbapi.com/). It was downloaded from their website using the APIs provided. We have roughly 65K movies and their attributes such as rating, vote count and actors etc.
+ 
+Objective:
+ - Build a credit based movie recommender that recommends movies based on a similarity of Genre, Directors and Actors
  - User inputs a movie name and similar movies based on similarity score are recommended
 
 [Predicting IRIS Species](https://github.com/sumitkumar-00/Data_Science_Projects/blob/master/iris.ipynb)
 
 IRIS dataset was split in 80/20 for training and testing respectively. Each of Logistic Regression, KNN and RandomForest models achieved 96.67% accuracy in predicting species of the iris flower
-
-[Police Stops in Austin, TX](https://github.com/sumitkumar-00/Data_Science_Projects/blob/master/austin_tx_police.ipynb)
-
-This is an exploratory data analysis for police stops in Austin, TX
 
 [Image Classification for numerals (MNIST)](https://github.com/sumitkumar-00/Data_Science_Projects/blob/master/mnist.ipynb)
 
@@ -24,10 +33,6 @@ This is a simple convnet model using Keras and tensorflow as backend to classify
 [Cat and Dog Image Classification (convnet)](https://github.com/sumitkumar-00/Data_Science_Projects/blob/master/cat_and_dog.ipynb)
 
 This is a classification model (convnet) to classify pictures of dogs and cats. 4k pictures of dogs and cats each were used for training. Test set had 1k pictures for each class. The model achieved accuracy of 77%. Data augmentation probably can be used to improve accuracy. That's a project for some other day
-
-[Cat and Dog Image Classification with Image augmentation(convnet)](https://github.com/sumitkumar-00/Data_Science_Projects/blob/master/cat_and_dog_Image_Augmentation.ipynb)
-
-This is a classification model (convnet) to classify pictures of dogs and cats with image augmentation. 4k pictures of dogs and cats each were used for training. Test set had 1k pictures for each class. The model achieved accuracy of 85%. This is an improvement of almost 7% over my model without image augmentation.
 
 [Basic Movie Recommender](https://github.com/sumitkumar-00/Data_Science_Projects/blob/master/basic_movie_recommender.ipynb)
 
