@@ -1,3 +1,15 @@
+[Exploratory Analysis Of Kickstarter Data](https://github.com/sumitkumar-00/Data_Science_Projects/blob/master/kickstarter.ipynb)
+ - Kickstarter is an American public benefit corporation based in Brooklyn, New York, that maintains a global crowdfunding platform focused on creativity <br>
+ - The company's stated mission is to "help bring creative projects to life" <br>
+ - As of December 2019, Kickstarter has received more than $4.6 billion in pledges from 17.2 million backers to fund 445,000 projects
+ 
+ Analysis Objective:
+ - We want to be able to provide recommendations to project teams seeking to raise funds using crowfunding on Kickstarter
+ - What is the best length of time to run a campaign?
+ - What is an ideal pledge goal?
+ - What type of projects would be most successful at getting funded?
+ - Is there an ideal month/day to launch a campaign?
+ 
 [Plot Based Movie Recommender](https://github.com/sumitkumar-00/Data_Science_Projects/blob/master/plot_based_movie_recommender.ipynb)
 
 The dataset is from [Open Movie Database](http://www.omdbapi.com/). It was downloaded from their website using the APIs provided. We have roughly 65K movies and their attributes such as rating, vote count and actors etc.
