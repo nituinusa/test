@@ -64,7 +64,7 @@ P.S. : I am working on a more complex movie recommender and it will be uploaded 
 
 This dataset contained 3 predictors ( student, balance and income) and one reponse default/no default. Dataset is imbalanced and only 3 percent of the 10K observation belong to default class. Randomforest classifier was able to achieve an area under curve equal to 0.89
 
-[Credit Card Fraud Detection](https://github.com/sumitkumar-00/Data_Science_Projects/blob/master/credit_card_fraud.ipynb)
+[Credit Card Fraud Detection](https://github.com/sumitkumar-00/credit-card-fraud-detection)
 
 This dataset is from Kaggle. It contains transactions made by credit cards in September 2013 by european cardholders. This dataset presents transactions that occurred in two days, where we have 492 frauds out of 284,807 transactions. The dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions.
 
