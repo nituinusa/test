@@ -18,9 +18,11 @@ Objective:
  - Build a plot based movie recommender that recommends movies based on a similarity score of plots
  - User inputs a movie name and similar movies based on similarity score are recommended
  
- [Police Stops in Austin, TX](https://github.com/sumitkumar-00/Data_Science_Projects/blob/master/austin_tx_police.ipynb)
+ [Police Stops in Austin, TX](https://github.com/sumitkumar-00/austin-tx-police-stops)
 
-This is an exploratory data analysis for police stops in Austin, TX
+The Stanford Open Policing Project is an effort to track police stops data all across US. Starting in 2015, the Open Policing Project began requesting such data from state after state. To date, the project has collected and standardized over 200 million records of traffic stop and search data from across the country.
+
+My exploratory analysis is focused on police stops in Austin, TX
 
 [Cat and Dog Image Classification with Image augmentation(convnet)](https://github.com/sumitkumar-00/Data_Science_Projects/blob/master/cat_and_dog_Image_Augmentation.ipynb)
 
